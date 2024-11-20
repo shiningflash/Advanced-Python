@@ -42,7 +42,7 @@ Located in the `/Matplotlib/` directory:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/shiningflash/practice-python.git
-  ```
+   ```
 
 ## How to Use This Repository
 
