@@ -1,0 +1,9 @@
+Aggregated Log Data:
+INFO: 3 entries
+WARNING: 1 entry
+ERROR: 2 entries
+
+Most frequent log level: INFO
+
+Earliest log timestamp: 2024-11-21T14:32:00
+Latest log timestamp: 2024-11-21T14:40:00

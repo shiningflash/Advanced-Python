@@ -1,0 +1,6 @@
+2024-11-21T14:32:00 INFO User logged in
+2024-11-21T14:33:10 WARNING Disk space low
+2024-11-21T14:35:00 ERROR Database connection failed
+2024-11-21T14:36:30 INFO User logged out
+2024-11-21T14:37:00 INFO User logged in
+2024-11-21T14:40:00 ERROR Service timeout
